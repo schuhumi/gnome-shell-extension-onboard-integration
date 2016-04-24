@@ -1,1 +1,1 @@
-{"uuid": "onboard@simon.schumann.web.de", "name": "Onboard integration", "description": "Replaces Gnome's default virtual keyboard with Onboard", "shell-version": ["3.18"]}
+{"uuid": "onboard@simon.schumann.web.de", "name": "Onboard integration", "description": "Replaces Gnome's default virtual keyboard with Onboard", "shell-version": ["3.18", "3.20"]}
